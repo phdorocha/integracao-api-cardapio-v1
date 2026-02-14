@@ -1,1 +1,23 @@
-{"name":"phdorocha/integracao-api-cardapio-v1","version":"1.0.2","description":"Pacote para acessar a API de Integração com o cardapio EasyRestaurante.app.br","type":"library","license":"MIT","authors":[{"role":"Developer","name":"Paulo Henrique Andrade","email":"phdorocha@gmail.com","homepage":"https://www.sidsolucoes.com/"}],"autoload":{"psr-4":{"PauloAndrade\\IntegracaoAPICardapio-v1\\":"src/"}},"require":{"php":"^7.4|^8.0"}}
+{
+    "name": "phdorocha/integracao-api-cardapio-v1",
+    "version": "1.0.2",
+    "description": "Pacote para acessar a API de Integração com o cardapio EasyRestaurante.app.br",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "role": "Developer",
+            "name": "Paulo Henrique Andrade",
+            "email": "phdorocha@gmail.com",
+            "homepage": "https://www.sidsolucoes.com/"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "PauloAndrade\\IntegracaoAPICardapio-v1\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^7.4|^8.0"
+    }
+}
